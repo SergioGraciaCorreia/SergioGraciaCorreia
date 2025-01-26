@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://tu-enlace-a-la-imagen.jpg" alt="Banner" width="100%"/>
+  <img src="![Nuevo Microsoft PhotoDraw Picture](https://github.com/user-attachments/assets/1b917924-27c1-4fe8-8976-77b6107f5882)
+" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hello! 👋 I'm Sergio Gracia</h1>
