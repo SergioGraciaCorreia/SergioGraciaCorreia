@@ -9,16 +9,16 @@
 ---
 
 ## 🛠️ **Technologies and Tools**  
-- **Languages**: C#, Java, Python, Natural Host  
+- **Languages**: C#, Java, Natural Host  
 - **Frameworks**: WPF, Unity  
-- **Tools**: Visual Studio, GitHub, Aseprite  
+- **Tools**: Visual Studio, Eclipse, GitHub, Aseprite  
 
 ---
 
 ## 🎮 **Featured Projects**  
 - **[Surftuga WPF](https://github.com/SergioGracia/Surftuga-WPF)**: A surfing turtle game developed in WPF.  
 - **[WPF Calculator](https://github.com/SergioGracia/Calculadora-WPF)**: A basic calculator with a friendly interface.  
-- **[RPG in Natural Host](https://github.com/SergioGracia/Natural-Host-RPG)**: A role-playing game developed in a mainframe environment.  
+
 
 ---
 
@@ -30,9 +30,9 @@
 ---
 
 ## 📫 **Contact**  
-- ✉️ **Email**: sergio@example.com  
-- 💼 **LinkedIn**: [Sergio Gracia](https://www.linkedin.com/in/sergio-gracia)  
-- 🐦 **Twitter**: [@SergioGracia](https://twitter.com/SergioGracia)  
+- ✉️ **Email**: sergiograciacorreia@gmail.com  
+- 💼 **LinkedIn**: [Sergio Gracia](www.linkedin.com/in/sergio-gracia-correia)  
+
 
 ---
 
