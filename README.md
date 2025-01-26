@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Nuevo Microsoft PhotoDraw Picture](https://github.com/user-attachments/assets/1b917924-27c1-4fe8-8976-77b6107f5882)
+  <img src="![banner](https://github.com/user-attachments/assets/f180d6e1-4944-4d19-aa8e-819a2f9952d3)
 " alt="Banner" width="100%"/>
 </p>
 
