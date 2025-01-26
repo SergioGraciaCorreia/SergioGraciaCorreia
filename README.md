@@ -21,7 +21,7 @@
 
 |  |
 |:-:|
-| <img src="https://github.com/user-attachments/assets/f1998ca7-178c-4257-8338-cdad5f872ab0" alt="Surftuga Demo" width="320"/> |
+| <img src="https://github.com/user-attachments/assets/f1998ca7-178c-4257-8338-cdad5f872ab0" alt="Surftuga Demo" width="400"/> |
 
 
 
