@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![banner](https://github.com/user-attachments/assets/f180d6e1-4944-4d19-aa8e-819a2f9952d3)" alt="Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/f180d6e1-4944-4d19-aa8e-819a2f9952d3" alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hello! 👋 I'm Sergio Gracia</h1>
