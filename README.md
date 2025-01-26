@@ -18,7 +18,8 @@
 ## 🎮 **Featured Projects**  
 - **[Surftuga WPF](https://github.com/SergioGraciaCorreia/SurftugaWpf)**: A surfing turtle game developed in WPF.  
  **Download the latest release**: [Surftuga_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/SurftugaWpf/releases/tag/WPF)
-<img src="https://github.com/user-attachments/assets/f1998ca7-178c-4257-8338-cdad5f872ab0" alt="Surftuga Demo" width="300"/>
+<img src="https://github.com/user-attachments/assets/f1998ca7-178c-4257-8338-cdad5f872ab0" alt="Surftuga Demo" width="320" style="margin-left: 50px;"/>
+
 
 
    
