@@ -41,7 +41,7 @@
 ---
 
 ## 📫 **Contact**  
-- ✉️ **Email**: sergiograciacorreia@gmail.com  
+- ✉️ **Email**: sergiograciacorreia@outlook.com  
 - 💼 **LinkedIn**: [Sergio Gracia](https://www.linkedin.com/in/sergio-gracia-correia)  
 
 
