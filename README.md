@@ -19,7 +19,7 @@
 - **[Surftuga WPF](https://github.com/SergioGraciaCorreia/SurftugaWpf)**: A surfing turtle game developed in WPF.  
  **Download the latest release**: [Surftuga_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/SurftugaWpf/releases/tag/WPF)  
 
-|  <img src="https://github.com/user-attachments/assets/bb4ac0d6-44be-428b-858f-b74db386f808" alt="Surftuga Demo" width="400"/>  |  <img src="https://github.com/user-attachments/assets/c49a8335-d0e2-4589-849d-04260c953a95" alt="Surftuga Preview 2" width="400"/>  |
+|  <img src="https://github.com/user-attachments/assets/bb4ac0d6-44be-428b-858f-b74db386f808" alt="Surftuga Demo" width="360"/>  |  <img src="https://github.com/user-attachments/assets/c49a8335-d0e2-4589-849d-04260c953a95" alt="Surftuga Preview 2" width="360"/>  |
 |:-:|:-:|
 
 
@@ -27,7 +27,7 @@
 - **[Dora la Calculadora WPF](https://github.com/SergioGraciaCorreia/CalculadoraWpf)**: A basic calculator with a friendly interface.  
   **Download the latest release**: [Calculadora_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/CalculadoraWpf/releases/tag/C%23)
   
-|  <img src="https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2" alt="DoraCalculadora Preview" width="400"/>  |  <img src="https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933" alt="DoraCalculadora Preview 2" width="400"/>  |
+|  <img src="https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2" alt="DoraCalculadora Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933" alt="DoraCalculadora Preview 2" width="360"/>  |
 |:-:|:-:|
 
 
