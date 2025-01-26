@@ -17,7 +17,7 @@
 
 ## 🎮 **Featured Projects**  
 - **[Surftuga WPF](https://github.com/SergioGracia/Surftuga-WPF)**: A surfing turtle game developed in WPF.  
-- **[WPF Calculator](https://github.com/SergioGracia/Calculadora-WPF)**: A basic calculator with a friendly interface.  
+- **[WPF Calculator](https://github.com/SergioGracia/Calculadora-WPF)**: A basic calculator with a friendly interface.   
 
 
 ---
@@ -31,7 +31,7 @@
 
 ## 📫 **Contact**  
 - ✉️ **Email**: sergiograciacorreia@gmail.com  
-- 💼 **LinkedIn**: [Sergio Gracia](www.linkedin.com/in/sergio-gracia-correia)  
+- 💼 **LinkedIn**: [Sergio Gracia](https://www.linkedin.com/in/sergio-gracia-correia)  
 
 
 ---
