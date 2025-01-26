@@ -2,6 +2,9 @@
 # Assets
 Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 
+![banner](https://github.com/user-attachments/assets/f180d6e1-4944-4d19-aa8e-819a2f9952d3)
+
+
 ![surftugaPreview](https://github.com/user-attachments/assets/bb4ac0d6-44be-428b-858f-b74db386f808)
 ![surftugaPreview2](https://github.com/user-attachments/assets/c49a8335-d0e2-4589-849d-04260c953a95)
 
