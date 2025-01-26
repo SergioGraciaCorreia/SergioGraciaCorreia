@@ -23,19 +23,13 @@
 |:-:|:-:|
 
 
-
-
-
-
-
-
    
 - **[Dora la Calculadora WPF](https://github.com/SergioGraciaCorreia/CalculadoraWpf)**: A basic calculator with a friendly interface.  
   **Download the latest release**: [Calculadora_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/CalculadoraWpf/releases/tag/C%23)
   
-|  |
-|:-:|
-| <img src="https://github.com/user-attachments/assets/f1998ca7-178c-4257-8338-cdad5f872ab0" alt="Surftuga Demo" width="420"/> |
+|  <img src="https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2" alt="DoraCalculadora Preview" width="420"/>  |  <img src="https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933" alt="DoraCalculadora Preview 2" width="420"/>  |
+|:-:|:-:|
+
 
 ---
 
