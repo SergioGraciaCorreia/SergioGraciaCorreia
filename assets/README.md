@@ -2,7 +2,8 @@
 # Assets
 Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 
-![banner](https://github.com/user-attachments/assets/17faa4ab-f8e6-4787-bee9-c1c6cdd2a2c7)
+![banner](https://github.com/user-attachments/assets/eed117a7-89f6-4068-aef4-64bb76689ca4)
+
 
 
 
