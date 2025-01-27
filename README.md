@@ -9,9 +9,13 @@
 ---
 
 ## 🛠️ **Technologies and Tools**  
-- **Languages**: C#, Java, Natural Host  
-- **Frameworks**: WPF, Unity  
-- **Tools**: Visual Studio, Eclipse, GitHub, Aseprite  
+- **Languages**: C#, Java, Natural  
+- **Frameworks**: WPF, Unity, Java Swing 
+- **Tools**:  
+  - **IDEs**: Visual Studio, Eclipse, NetBeans  
+  - **Version Control**: GitHub  
+  - **Graphics**: Aseprite  
+  - **Databases**: Adabas, MySQL
 
 ---
 
