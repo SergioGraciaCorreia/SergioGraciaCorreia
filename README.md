@@ -19,7 +19,8 @@
 **[RPG in Natural for Mainframe](https://github.com/SergioGraciaCorreia/NaturalMainframeRPG)**: A roguelike RPG game developed in Natural for mainframe environments.  
   **Download the latest release**: [RPG_Natural_v1.0.zip](https://github.com/SergioGraciaCorreia/NaturalMainframeRPG/releases/tag/v1.0) 
 
-|  <img src="https://github.com/user-attachments/assets/0b6ff39b-b0a4-45bf-ba6b-6808a451a94e" alt="RPG Natural" width="720"/>  |
+|  <img src="https://github.com/user-attachments/assets/0b6ff39b-b0a4-45bf-ba6b-6808a451a94e" alt="RPG Natural" width="750"/>  |
+|:-:|
 
 ---
 
