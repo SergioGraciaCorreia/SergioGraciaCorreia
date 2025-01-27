@@ -5,6 +5,7 @@ Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 ![banner](https://github.com/user-attachments/assets/eed117a7-89f6-4068-aef4-64bb76689ca4)
 
 
+![rpg-mainframe](https://github.com/user-attachments/assets/0b6ff39b-b0a4-45bf-ba6b-6808a451a94e)
 
 
 ![surftugaPreview](https://github.com/user-attachments/assets/bb4ac0d6-44be-428b-858f-b74db386f808)
