@@ -1,5 +1,4 @@
-![ventapponlinegif2](https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079)
-![ventapponlinegif1](https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8)
+
 
 # Assets
 Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
@@ -15,3 +14,6 @@ Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 
 ![DoraCalculadoraPreview2](https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933)
 ![DoraCalculadoraPreview](https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2)
+
+![ventapponlinegif2](https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079)
+![ventapponlinegif1](https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8)
