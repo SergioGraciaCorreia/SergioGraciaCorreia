@@ -1,3 +1,5 @@
+![ventapponlinegif2](https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079)
+![ventapponlinegif1](https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8)
 
 # Assets
 Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
