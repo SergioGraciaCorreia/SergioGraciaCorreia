@@ -50,7 +50,7 @@
 - **[VentApp Online](https://github.com/SergioGraciaCorreia/VentApp-Online)**: A Java-based sales and inventory management application with features like PDF invoice generation and MySQL database integration.  
   **Download the latest release**: [VentApp_Online_v1.0.zip](https://github.com/SergioGraciaCorreia/VentApp-Online/releases/tag/java)
 
-|  <img src="https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2" alt="DoraCalculadora Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933" alt="DoraCalculadora Preview 2" width="360"/>  |
+|  <img src="https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8" alt="Ventapp1 Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079" alt="Ventapp2 Preview 2" width="360"/>  |
 |:-:|:-:|
 
 
