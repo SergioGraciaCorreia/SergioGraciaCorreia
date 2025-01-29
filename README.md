@@ -28,6 +28,15 @@
 
 ---
 
+
+- **[VentApp Online](https://github.com/SergioGraciaCorreia/VentApp-Online)**: A Java-based sales and inventory management application with features like PDF invoice generation and MySQL database integration.  
+  **Download the latest release**: [VentApp_Online_v1.0.zip](https://github.com/SergioGraciaCorreia/VentApp-Online/releases/tag/java)
+
+|  <img src="https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8" alt="Ventapp1 Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079" alt="Ventapp2 Preview 2" width="360"/>  |
+|:-:|:-:|
+
+---
+
 - **[Surftuga WPF](https://github.com/SergioGraciaCorreia/SurftugaWpf)**: A surfing turtle game developed in WPF.  
  **Download the latest release**: [Surftuga_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/SurftugaWpf/releases/tag/WPF)  
 
@@ -43,15 +52,7 @@
 |:-:|:-:|
 
 
----
 
-
-
-- **[VentApp Online](https://github.com/SergioGraciaCorreia/VentApp-Online)**: A Java-based sales and inventory management application with features like PDF invoice generation and MySQL database integration.  
-  **Download the latest release**: [VentApp_Online_v1.0.zip](https://github.com/SergioGraciaCorreia/VentApp-Online/releases/tag/java)
-
-|  <img src="https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8" alt="Ventapp1 Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079" alt="Ventapp2 Preview 2" width="360"/>  |
-|:-:|:-:|
 
 
 
