@@ -12,7 +12,8 @@
 - **Languages**: C#, Java, Natural, Sql 
 - **Frameworks**: WPF, Unity, Java Swing 
 - **Tools**:  
-  - **IDEs**: Visual Studio, Eclipse, NetBeans  
+  - **IDEs**: Visual Studio, Eclipse, NetBeans
+  - **Mainframe**: IBM z/OS
   - **Version Control**: GitHub  
   - **Graphics**: Aseprite  
   - **Databases**: Adabas, MySQL
