@@ -29,8 +29,8 @@
 
 ---
 
-- **[Mainframe Database Interaction Tool](https://github.com/SergioGraciaCorreia/Mainframe-DB-Tool)**: A utility developed in Natural for mainframe environments, allowing users to select, view, and simulate updates on database records.  
-  **Download the latest release**: [Mainframe_DB_Tool_v1.0.zip](https://github.com/SergioGraciaCorreia/Mainframe-DB-Tool/releases/tag/mainframe)
+- **[Mainframe Database Interaction Tool](https://github.com/SergioGraciaCorreia/Adabas-Database-Interaction-Tool-)**: A utility developed in Natural for mainframe environments, allowing users to select, view, and simulate updates on database records.  
+  **Download the latest release**: [Mainframe_DB_Tool_v1.0.zip](https://github.com/SergioGraciaCorreia/Adabas-Database-Interaction-Tool-/releases/tag/ADABAS)
 
 |  <img src="https://github.com/user-attachments/assets/36af5e83-50b0-435b-9da0-bf356aa5f50c" alt="DB-Adabas1" width="360" />  |  <img src="https://github.com/user-attachments/assets/ceedf869-fe64-4058-92b6-6a6e701b25a8" alt="DB-Adabas2" width="360" />  |
 |:-:|:-:|
