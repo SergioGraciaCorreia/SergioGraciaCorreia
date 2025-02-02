@@ -17,3 +17,6 @@ Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 
 ![ventapponlinegif2](https://github.com/user-attachments/assets/efc6906c-d550-4aaf-8ff6-326cfce23079)
 ![ventapponlinegif1](https://github.com/user-attachments/assets/2835ba75-deac-4eb1-b4d3-0c90bf162db8)
+
+![DB-Adabas2](https://github.com/user-attachments/assets/8b5c3fa2-06ed-4b8f-97e2-ae37d11b27ce)
+![DB-Adabas1](https://github.com/user-attachments/assets/c4873aec-83d8-41ac-88e0-438c02b2bc13)
