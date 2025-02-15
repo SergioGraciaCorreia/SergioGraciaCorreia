@@ -21,3 +21,6 @@ Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
 ![Adabas2](https://github.com/user-attachments/assets/dea8b1de-2f28-4acf-88a7-6e3942823a48)
 
 ![DB-Adabas1](https://github.com/user-attachments/assets/c4873aec-83d8-41ac-88e0-438c02b2bc13)
+
+![car1](https://github.com/user-attachments/assets/8c11ad21-f4d0-48f3-8abe-3a3b4b0fbab0)
+![car2](https://github.com/user-attachments/assets/62652979-85de-4028-ae49-39fe555cd836)
