@@ -40,6 +40,15 @@ A utility developed in Natural for mainframe environments, allowing users to sel
 
 ---
 
+### 🎮 **[RPG in Natural for Mainframe](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG)**  
+A roguelike RPG game developed in Natural for mainframe environments.  
+**Download the latest release**: [RPG_Natural_v1.0.zip](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG/releases/tag/mainframe) 
+
+|  <img src="https://github.com/user-attachments/assets/0b6ff39b-b0a4-45bf-ba6b-6808a451a94e" alt="RPG Natural" width="750"/>  |
+|:-:|
+
+---
+
 ### 🎮 **[Surftuga WPF](https://github.com/SergioGraciaCorreia/SurftugaWpf)**  
 A surfing turtle game developed in C# and WPF.  
 **Download the latest release**: [Surftuga_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/SurftugaWpf/releases/tag/WPF)  
@@ -56,14 +65,6 @@ A basic calculator developed in C# and WPF, with a friendly interface and fx for
 |  <img src="https://github.com/user-attachments/assets/1a324d97-e5ab-4972-98b8-c1b2c09737d2" alt="DoraCalculadora Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/86db71b5-94bc-4c3f-95e3-495505ad3933" alt="DoraCalculadora Preview 2" width="360"/>  |
 |:-:|:-:|
 
----
-
-### 🎮 **[RPG in Natural for Mainframe](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG)**  
-A roguelike RPG game developed in Natural for mainframe environments.  
-**Download the latest release**: [RPG_Natural_v1.0.zip](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG/releases/tag/mainframe) 
-
-|  <img src="https://github.com/user-attachments/assets/0b6ff39b-b0a4-45bf-ba6b-6808a451a94e" alt="RPG Natural" width="750"/>  |
-|:-:|
 
 ---
 
