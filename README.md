@@ -67,6 +67,16 @@ A roguelike RPG game developed in Natural for mainframe environments.
 
 ---
 
+### 🚗 **[Driving Sim WPF](https://github.com/SergioGraciaCorreia/Driving-Sim-WPF)**
+A visual car simulation built in C# and WPF, featuring pixel art animations, engine sounds, and interactive dashboard controls.  
+**Download the latest release**: [Driving_Sim_WPF_v1.0.zip](https://github.com/SergioGraciaCorreia/Driving-Sim-WPF/releases/tag/v1.0)
+
+|  <img src="https://github.com/user-attachments/assets/8c11ad21-f4d0-48f3-8abe-3a3b4b0fbab0" alt="Driving Sim WPF Preview" width="360"/>  |  <img src="https://github.com/user-attachments/assets/62652979-85de-4028-ae49-39fe555cd836" alt="Driving Sim WPF Preview 2" width="360"/>  |
+|:-:|:-:|
+
+---
+
+
 ## 📊 **GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SergioGracia&show_icons=true&theme=dark" alt="GitHub Stats"/>
