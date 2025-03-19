@@ -2,6 +2,7 @@
 
 # Assets
 Esta carpeta contiene recursos como imágenes y GIFs para el perfil.
+![eltiempowpf](https://github.com/user-attachments/assets/ac8fbfaa-75c6-4bde-91b9-a1e8726754a9)
 
 ![banner](https://github.com/user-attachments/assets/eed117a7-89f6-4068-aef4-64bb76689ca4)
 
