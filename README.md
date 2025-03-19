@@ -40,6 +40,17 @@ A utility developed in Natural for mainframe environments, allowing users to sel
 
 ---
 
+### 🌤 **[El Tiempo WPF](https://github.com/SergioGraciaCorreia/ElTiempoWPF)**
+A sleek weather application built in C# and WPF with a clean MVVM architecture. It fetches current weather data and forecast from the OpenWeatherMap API, displaying the date and an animated GIF representing the weather. Users can search for any city and toggle between "Hoy" (today) and "Mañana" (tomorrow) to see the relevant forecast.
+
+**Download the latest release**: [ElTiempoWPF_v1.0.zip](<RELEASE_LINK_HERE>)
+
+|  <img src="https://github.com/user-attachments/assets/236a06a5-10fb-4f04-b59d-953257b30d6e" alt="El Tiempo WPF Preview" width="750"/>  |
+|:-:|
+
+---
+
+
 ### 🎮 **[RPG in Natural for Mainframe](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG)**  
 A roguelike RPG game developed in Natural for mainframe environments.  
 **Download the latest release**: [RPG_Natural_v1.0.zip](https://github.com/SergioGraciaCorreia/Natural-Mainframe-RPG/releases/tag/mainframe) 
